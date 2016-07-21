@@ -1,0 +1,6 @@
+# Normally you can just leave a blank file,
+# But in this case let's explicitly add one
+# that says "nothing is disallowed here"
+
+User-agent: *
+Disallow:
